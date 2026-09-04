@@ -1,0 +1,11 @@
+crashed: 0.0
+TL: 4.144 % (94.83590733590734 %)
+Not Eq.: 77.946 % (0.0025658789418315244 %)
+Prograde Venus: 6.959999999999999 % (25.862068965517242 %)
+Venus: 10.95 %
+Venus ever hab?: 20.073059360730593 %
+Venus never hab?: 79.9269406392694 %
+Venus hab > 1 Gyr: 0.0
+Avg. t_hab Venus: 0.1347961783439491
+Max. t_hab Venus: 0.28600000000000003
+Concatenation successful, deleting num_* directories...
