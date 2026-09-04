@@ -1,0 +1,7 @@
+rm concatenate_all.err 
+rm concatenate_all.out 
+rm concatenate.sh 
+rm pathways_summary.csv
+rm all_solutions.pkl
+rm -r num*
+rm *.out
